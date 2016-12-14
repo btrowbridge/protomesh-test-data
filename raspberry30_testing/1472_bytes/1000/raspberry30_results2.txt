@@ -1,0 +1,43 @@
+ICMP Host Unreachable from 10.0.38.38 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.38.38 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.38.38 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.38.38 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.38.38 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.38.38 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.38.38 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.38.38 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.38.38 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.38.38 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.38.38 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.38.38 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.38.38 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.38.38 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.38.38 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.38.38 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.38.38 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.38.38 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.38.38 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.38.38 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.38.38 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.38.38 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.38.38 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.38.38 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.38.38 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.38.38 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.38.38 for ICMP Echo sent to 10.0.185.43
+
+10.0.109.86  : xmt/rcv/%loss = 100/18/82%, min/avg/max = 22.8/627/1942
+10.0.201.110 : xmt/rcv/%loss = 100/8/92%, min/avg/max = 4.03/597/2286
+10.0.30.110  : xmt/rcv/%loss = 100/14/86%, min/avg/max = 3.61/883/4799
+10.0.75.66   : xmt/rcv/%loss = 100/16/84%, min/avg/max = 80.1/1196/6723
+10.0.61.25   : xmt/rcv/%loss = 100/29/71%, min/avg/max = 5.08/733/7369
+10.0.201.196 : xmt/rcv/%loss = 100/13/87%, min/avg/max = 31.4/606/1535
+10.0.184.104 : xmt/rcv/%loss = 100/20/80%, min/avg/max = 103/655/1634
+10.0.194.34  : xmt/rcv/%loss = 100/18/82%, min/avg/max = 190/1474/8186
+10.0.1.26    : xmt/rcv/%loss = 100/19/81%, min/avg/max = 4.48/1094/6635
+10.0.119.234 : xmt/rcv/%loss = 100/17/83%, min/avg/max = 93.9/1098/4776
+10.0.74.221  : xmt/rcv/%loss = 100/28/72%, min/avg/max = 10.8/781/5603
+10.0.37.8    : xmt/rcv/%loss = 100/23/77%, min/avg/max = 87.0/1222/6183
+10.0.62.14   : xmt/rcv/%loss = 100/15/85%, min/avg/max = 205/824/4139
+10.0.185.43  : xmt/rcv/%loss = 100/28/72%, min/avg/max = 9.67/815/5590
+10.0.162.230 : xmt/rcv/%loss = 100/23/77%, min/avg/max = 24.1/589/2516

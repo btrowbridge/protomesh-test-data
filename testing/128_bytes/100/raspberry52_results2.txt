@@ -1,0 +1,32 @@
+ICMP Host Unreachable from 10.0.119.234 for ICMP Echo sent to 10.0.75.66
+ICMP Host Unreachable from 10.0.119.234 for ICMP Echo sent to 10.0.75.66
+ICMP Host Unreachable from 10.0.119.234 for ICMP Echo sent to 10.0.75.66
+ICMP Host Unreachable from 10.0.119.234 for ICMP Echo sent to 10.0.75.66
+ICMP Host Unreachable from 10.0.119.234 for ICMP Echo sent to 10.0.75.66
+ICMP Host Unreachable from 10.0.119.234 for ICMP Echo sent to 10.0.75.66
+ICMP Host Unreachable from 10.0.119.234 for ICMP Echo sent to 10.0.75.66
+ICMP Host Unreachable from 10.0.119.234 for ICMP Echo sent to 10.0.75.66
+ICMP Host Unreachable from 10.0.119.234 for ICMP Echo sent to 10.0.162.230
+ICMP Host Unreachable from 10.0.119.234 for ICMP Echo sent to 10.0.162.230
+ICMP Host Unreachable from 10.0.119.234 for ICMP Echo sent to 10.0.162.230
+ICMP Host Unreachable from 10.0.119.234 for ICMP Echo sent to 10.0.162.230
+ICMP Host Unreachable from 10.0.119.234 for ICMP Echo sent to 10.0.162.230
+ICMP Host Unreachable from 10.0.119.234 for ICMP Echo sent to 10.0.162.230
+ICMP Host Unreachable from 10.0.119.234 for ICMP Echo sent to 10.0.162.230
+ICMP Host Unreachable from 10.0.119.234 for ICMP Echo sent to 10.0.162.230
+
+10.0.109.86  : xmt/rcv/%loss = 100/13/87%, min/avg/max = 7.99/1670/7978
+10.0.201.110 : xmt/rcv/%loss = 100/11/89%, min/avg/max = 1.56/1381/5979
+10.0.38.38   : xmt/rcv/%loss = 100/9/91%, min/avg/max = 8.50/891/4911
+10.0.30.110  : xmt/rcv/%loss = 100/11/89%, min/avg/max = 7.47/1676/5126
+10.0.75.66   : xmt/rcv/%loss = 100/9/91%, min/avg/max = 30.4/1724/8979
+10.0.61.25   : xmt/rcv/%loss = 100/15/85%, min/avg/max = 2.01/1614/8303
+10.0.201.196 : xmt/rcv/%loss = 100/7/93%, min/avg/max = 2.30/393/1815
+10.0.184.104 : xmt/rcv/%loss = 100/13/87%, min/avg/max = 1.48/2119/7900
+10.0.194.34  : xmt/rcv/%loss = 100/14/86%, min/avg/max = 2.27/2310/6246
+10.0.1.26    : xmt/rcv/%loss = 100/15/85%, min/avg/max = 2.07/2325/8316
+10.0.74.221  : xmt/rcv/%loss = 100/14/86%, min/avg/max = 1.43/1194/3577
+10.0.37.8    : xmt/rcv/%loss = 100/10/90%, min/avg/max = 1.50/1348/8944
+10.0.62.14   : xmt/rcv/%loss = 100/10/90%, min/avg/max = 2.01/1492/7998
+10.0.185.43  : xmt/rcv/%loss = 100/15/85%, min/avg/max = 2.23/2485/9618
+10.0.162.230 : xmt/rcv/%loss = 100/7/93%, min/avg/max = 15.8/198/543

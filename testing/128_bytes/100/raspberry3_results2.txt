@@ -1,0 +1,120 @@
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.37.8
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.37.8
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.37.8
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.37.8
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.37.8
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.37.8
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.37.8
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.37.8
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.201.110
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.201.110
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.201.110
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.201.110
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.201.110
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.201.110
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.201.110
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.201.110
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.38.38
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.38.38
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.38.38
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.38.38
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.38.38
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.38.38
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.38.38
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.38.38
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.30.110
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.30.110
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.30.110
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.30.110
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.30.110
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.30.110
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.30.110
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.30.110
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.184.104
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.184.104
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.184.104
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.184.104
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.184.104
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.184.104
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.184.104
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.184.104
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.201.196
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.201.196
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.201.196
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.201.196
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.201.196
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.201.196
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.201.196
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.201.196
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.75.66
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.75.66
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.75.66
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.75.66
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.75.66
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.75.66
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.75.66
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.75.66
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.37.8
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.37.8
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.37.8
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.37.8
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.37.8
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.37.8
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.37.8
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.37.8
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.201.110
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.201.110
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.201.110
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.201.110
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.201.110
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.201.110
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.201.110
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.201.110
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.30.110
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.30.110
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.30.110
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.30.110
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.30.110
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.30.110
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.30.110
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.30.110
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.75.66
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.75.66
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.75.66
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.75.66
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.75.66
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.75.66
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.75.66
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.75.66
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.30.110
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.30.110
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.30.110
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.30.110
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.30.110
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.30.110
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.30.110
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.30.110
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.75.66
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.75.66
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.75.66
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.75.66
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.75.66
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.75.66
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.75.66
+ICMP Host Unreachable from 10.0.62.14 for ICMP Echo sent to 10.0.75.66
+
+10.0.109.86  : xmt/rcv/%loss = 100/7/93%, min/avg/max = 6.38/671/2815
+10.0.201.110 : xmt/rcv/%loss = 100/9/91%, min/avg/max = 3.39/2279/8103
+10.0.38.38   : xmt/rcv/%loss = 100/12/88%, min/avg/max = 4.31/1390/5561
+10.0.30.110  : xmt/rcv/%loss = 100/8/92%, min/avg/max = 13.8/1485/4569
+10.0.75.66   : xmt/rcv/%loss = 100/8/92%, min/avg/max = 1.74/433/2311
+10.0.61.25   : xmt/rcv/%loss = 100/12/88%, min/avg/max = 12.0/2984/9601
+10.0.201.196 : xmt/rcv/%loss = 100/7/93%, min/avg/max = 6.45/782/1775
+10.0.184.104 : xmt/rcv/%loss = 100/5/95%, min/avg/max = 159/1093/3004
+10.0.194.34  : xmt/rcv/%loss = 100/12/88%, min/avg/max = 10.2/2804/9526
+10.0.1.26    : xmt/rcv/%loss = 100/7/93%, min/avg/max = 35.7/1435/4957
+10.0.119.234 : xmt/rcv/%loss = 100/9/91%, min/avg/max = 20.5/1903/8716
+10.0.74.221  : xmt/rcv/%loss = 100/9/91%, min/avg/max = 11.8/1400/4567
+10.0.37.8    : xmt/rcv/%loss = 100/6/94%, min/avg/max = 5.58/1127/3607
+10.0.185.43  : xmt/rcv/%loss = 100/18/82%, min/avg/max = 5.61/2653/9040
+10.0.162.230 : xmt/rcv/%loss = 100/11/89%, min/avg/max = 1.82/2140/6442
