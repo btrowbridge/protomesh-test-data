@@ -1,0 +1,51 @@
+b8:27:eb:19:7b:10 0.140s (177) b8:27:eb:19:7b:10
+b8:27:eb:6a:53:02 0.300s (168) b8:27:eb:6a:53:02
+b8:27:eb:59:04:1f 0.140s (183) b8:27:eb:59:04:1f
+b8:27:eb:37:c6:35 2.000s (215) b8:27:eb:37:c6:35
+b8:27:eb:54:a7:5c 0.040s (229) b8:27:eb:54:a7:5c
+b8:27:eb:0c:5b:cf 0.250s (122) b8:27:eb:bd:64:88
+b8:27:eb:bd:8f:69 0.890s (194) b8:27:eb:bd:8f:69
+b8:27:eb:bd:64:88 0.090s (217) b8:27:eb:bd:64:88
+b8:27:eb:a8:b9:9f 0.930s (221) b8:27:eb:91:e6:88
+b8:27:eb:55:bb:1f 0.500s (213) b8:27:eb:91:e6:88
+b8:27:eb:f9:46:30 0.280s (212) b8:27:eb:91:e6:88
+b8:27:eb:7b:dd:a7 0.150s (204) b8:27:eb:91:e6:88
+b8:27:eb:91:e6:88 0.260s (251) b8:27:eb:91:e6:88
+b8:27:eb:c4:b3:dd 0.190s (255) b8:27:eb:91:e6:88
+b8:27:eb:fb:e8:a0 0.030s (173) b8:27:eb:91:e6:88
+
+
+16
+
+
+16/12/16_ 8:42:51 pm UTC
+----------------
+ssh into 10.0.109.86...
+ssh into 10.0.201.110...
+ssh into 10.0.38.38...
+ssh into 10.0.30.110...
+ssh into 10.0.75.66...
+ssh into 10.0.61.25...
+ssh into 10.0.201.196...
+ssh into 10.0.184.104...
+ssh into 10.0.194.34...
+ssh into 10.0.1.26...
+ssh into 10.0.119.234...
+ssh into 10.0.74.221...
+ssh into 10.0.37.8...
+ssh into 10.0.62.14...
+ssh into 10.0.162.230...
+raspberry18 10.0.184.104 b8:27:eb:bd:64:88 Current Frequency:2.412 GHz (Channel 1)
+raspberry3 10.0.62.14 b8:27:eb:c4:b3:dd Current Frequency:2.437 GHz (Channel 6)
+raspberry27 10.0.201.110 b8:27:eb:6a:53:02 Current Frequency:2.412 GHz (Channel 1)
+raspberry6 10.0.109.86 b8:27:eb:19:7b:10 Current Frequency:2.412 GHz (Channel 1)
+raspberry66 10.0.61.25 b8:27:eb:0c:5b:cf Current Frequency:2.412 GHz (Channel 1)
+raspberry21 10.0.1.26 b8:27:eb:55:bb:1f Current Frequency:2.437 GHz (Channel 6)
+raspberry13 10.0.162.230 b8:27:eb:fb:e8:a0 Current Frequency:2.437 GHz (Channel 6)
+raspberry23 10.0.194.34 b8:27:eb:a8:b9:9f Current Frequency:2.437 GHz (Channel 6)
+raspberry24 10.0.74.221 b8:27:eb:f9:46:30 Current Frequency:2.437 GHz (Channel 6)
+raspberry53 10.0.201.196 b8:27:eb:bd:8f:69 Current Frequency:2.412 GHz (Channel 1)
+raspberry1 10.0.37.8 b8:27:eb:7b:dd:a7 Current Frequency:2.437 GHz (Channel 6)
+raspberry26 10.0.75.66 b8:27:eb:54:a7:5c Current Frequency:2.412 GHz (Channel 1)
+raspberry28 10.0.30.110 b8:27:eb:37:c6:35 Current Frequency:2.412 GHz (Channel 1)
+raspberry30 10.0.38.38 b8:27:eb:59:04:1f Current Frequency:2.412 GHz (Channel 1)
