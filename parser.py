@@ -71,12 +71,16 @@ class IntervalTest:
         self.meanLatency = totalLatency / len(self.nodeList)
 
 
-def graphTest(testPath, ax=None):
-    if testPath[-1] != '/':
-        title = testPath
-        testPath += '/'
-    else:
-        title = testPath[:-1]
+def graphTestLatency(testPath, ax=None, ymax=2500, title=None):
+    # Determine graph title
+    if title == None:
+        if testPath[-1] != '/':
+            title = testPath
+            testPath += '/'
+        else:
+            title = testPath[:-1]
+        slashInd=title.rfind('/')
+        title = title[slashInd+1:]
 
     # Find valid "interval" sub-directories
     intervals = []
@@ -99,12 +103,19 @@ def graphTest(testPath, ax=None):
     plt.title(title)
     plt.xlabel('Ping Interval (ms)')
     plt.ylabel('Aggragate Mean Latency (ms)')
-    plt.ylim([0,2500])
+    plt.ylim([0, ymax])
     plt.plot(intervals, meanLatencies, marker='o')
 
-if __name__ == '__main__':
+def graphLatencyRun1():
     f, (ax1, ax2, ax3) = plt.subplots(1,3)
-    graphTest('128_bytes', ax1)
-    graphTest('1472_bytes', ax2)
-    graphTest('1500_bytes', ax3)
+    graphTestLatency('one-channel/ping-tests/128_bytes', ax1)
+    graphTestLatency('one-channel/ping-tests/1472_bytes', ax2)
+    graphTestLatency('one-channel/ping-tests/1500_bytes', ax3)
     plt.show()
+
+def graphLatencyRun2():
+    graphTestLatency('two-channel/ping-tests/128_bytes', ymax=500)
+    plt.show()
+
+if __name__ == '__main__':
+    graphLatencyRun2()
