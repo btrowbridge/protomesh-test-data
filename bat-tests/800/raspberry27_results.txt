@@ -1,0 +1,60 @@
+ICMP Host Unreachable from 10.0.201.110 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.201.110 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.201.110 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.201.110 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.201.110 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.201.110 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.201.110 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.201.110 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.201.110 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.201.110 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.201.110 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.201.110 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.201.110 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.201.110 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.201.110 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.201.110 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.201.110 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.201.110 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.201.110 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.201.110 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.201.110 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.201.110 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.201.110 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.201.110 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.201.110 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.201.110 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.201.110 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.201.110 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.201.110 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.201.110 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.201.110 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.201.110 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.201.110 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.201.110 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.201.110 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.201.110 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.201.110 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.201.110 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.201.110 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.201.110 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.201.110 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.201.110 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.201.110 for ICMP Echo sent to 10.0.185.43
+ICMP Host Unreachable from 10.0.201.110 for ICMP Echo sent to 10.0.185.43
+
+10.0.109.86  : xmt/rcv/%loss = 100/23/77%, min/avg/max = 3.23/2358/7554
+10.0.38.38   : xmt/rcv/%loss = 100/25/75%, min/avg/max = 1.57/2414/9601
+10.0.30.110  : xmt/rcv/%loss = 100/25/75%, min/avg/max = 1.86/1621/8099
+10.0.75.66   : xmt/rcv/%loss = 100/23/77%, min/avg/max = 1.60/1528/4850
+10.0.61.25   : xmt/rcv/%loss = 100/29/71%, min/avg/max = 2.72/1760/7452
+10.0.201.196 : xmt/rcv/%loss = 100/23/77%, min/avg/max = 4.15/1631/5743
+10.0.184.104 : xmt/rcv/%loss = 100/20/80%, min/avg/max = 1.80/1747/5020
+10.0.194.34  : xmt/rcv/%loss = 100/20/80%, min/avg/max = 1.40/2408/9722
+10.0.1.26    : xmt/rcv/%loss = 100/26/74%, min/avg/max = 1.48/1664/9166
+10.0.119.234 : xmt/rcv/%loss = 100/22/78%, min/avg/max = 1.50/1508/3384
+10.0.74.221  : xmt/rcv/%loss = 100/26/74%, min/avg/max = 1.42/1173/4951
+10.0.37.8    : xmt/rcv/%loss = 100/23/77%, min/avg/max = 1.86/1004/3633
+10.0.62.14   : xmt/rcv/%loss = 100/28/72%, min/avg/max = 1.58/1695/8213
+10.0.185.43  : xmt/rcv/%loss = 100/20/80%, min/avg/max = 3.34/1872/5443
+10.0.162.230 : xmt/rcv/%loss = 100/17/83%, min/avg/max = 1.50/2077/6932

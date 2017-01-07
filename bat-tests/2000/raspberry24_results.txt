@@ -1,0 +1,1 @@
+sudo: fping: command not found

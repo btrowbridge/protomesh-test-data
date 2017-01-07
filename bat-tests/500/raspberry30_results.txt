@@ -1,0 +1,16 @@
+
+10.0.109.86  : xmt/rcv/%loss = 100/96/4%, min/avg/max = 1.57/242/1724
+10.0.201.110 : xmt/rcv/%loss = 100/98/2%, min/avg/max = 1.57/207/1892
+10.0.30.110  : xmt/rcv/%loss = 100/97/3%, min/avg/max = 1.71/202/1756
+10.0.75.66   : xmt/rcv/%loss = 100/95/5%, min/avg/max = 2.43/257/1936
+10.0.61.25   : xmt/rcv/%loss = 100/99/1%, min/avg/max = 1.62/119/1297
+10.0.201.196 : xmt/rcv/%loss = 100/98/2%, min/avg/max = 1.62/143/1076
+10.0.184.104 : xmt/rcv/%loss = 100/97/3%, min/avg/max = 1.60/171/1621
+10.0.194.34  : xmt/rcv/%loss = 100/98/2%, min/avg/max = 1.70/316/3138
+10.0.1.26    : xmt/rcv/%loss = 100/98/2%, min/avg/max = 3.11/334/2486
+10.0.119.234 : xmt/rcv/%loss = 100/95/5%, min/avg/max = 1.63/129/1529
+10.0.74.221  : xmt/rcv/%loss = 100/99/1%, min/avg/max = 1.60/135/2112
+10.0.37.8    : xmt/rcv/%loss = 100/98/2%, min/avg/max = 1.53/164/1246
+10.0.62.14   : xmt/rcv/%loss = 100/100/0%, min/avg/max = 1.53/166/2070
+10.0.185.43  : xmt/rcv/%loss = 100/97/3%, min/avg/max = 2.67/245/1956
+10.0.162.230 : xmt/rcv/%loss = 100/97/3%, min/avg/max = 2.70/284/3100
