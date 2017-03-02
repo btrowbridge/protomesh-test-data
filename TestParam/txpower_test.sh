@@ -10,10 +10,16 @@
 ./reset_defaults.sh
 
 #Test Params
-title=${1:- $(date)}
+title=${1:- $(date +"%F_%H-%M-%S")}
 duration=${2:-60}
 spacing=${3:-$((60 * 5))}
 sample=${4:-1}
+
+echo "[[[TEST PARAMS]]]"
+echo "Tag: $title"
+echo "Durration: $durration"
+echo "Samples Per Change: $spacing"
+echo "Sample Rate: $sample"
 
 host=$(hostname)
 filename=/home/pi/PiShare/$host/txpower_test-$title.txt
@@ -43,6 +49,7 @@ while [ $timer -lt $duration ]; do
 
 		./batman_monitor.sh >> $filename
 		((sample_iterator += $sample))
+		echo -n "."
 		sleep $sample
 	done
 
@@ -50,7 +57,8 @@ while [ $timer -lt $duration ]; do
 	((timer += $sample_iterator))
 	((pow_current += $pow_increment))
 	sudo iwconfig wlan0 txpower $pow_current
-	./batman_monitor.sh
+#	./batman_monitor.sh
+	echo "*"
 done
 
 ./reset_defaults.sh
@@ -69,13 +77,15 @@ while [ $timer -lt $duration ] && [ $pow_current -gt 0 ]; do
                 ./batman_monitor.sh >> $filename
                 ((sample_iterator += $sample))
         	sleep $sample
+		echo -n "."
 	done
 
         #Increment
 	((timer += $sample_iterator))
         ((pow_current += $pow_decriment))
         sudo iwconfig wlan0 $pow_current
-	./batman_monitor.sh
+#	./batman_monitor.sh
+	echo "*"
 done
 
 

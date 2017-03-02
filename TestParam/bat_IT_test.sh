@@ -10,13 +10,19 @@
 ./reset_defaults.sh
 
 #Test Params
-title=${1:- $(date)}
+title=${1:- $(date +"%F_%H-%M-%S")}
 duration=${2:-60}
 spacing=${3:-$((60 * 5))}
 sample=${4:-1}
 
+echo "[[[TEST PARAMS]]]"
+echo "Tag: $title"
+echo "Durration: $duration"
+echo "Samples Per Change: $spacing"
+echo "Sample Rate: $sample"
+
 host=$(hostname)
-filename=/home/pi/PiShare/$host/bat_it_test-$title.txt
+filename="/home/pi/PiShare/$host/bat_it_test_${title}.txt"
 
 echo $filename
 
@@ -32,6 +38,7 @@ timer=0
 
 echo "[[[[BEGIN BATMAN IT TEST]]]]"
 echo "Climbing UP...."
+echo
 
 while [ $timer -lt $duration ]; do
 
@@ -40,8 +47,9 @@ while [ $timer -lt $duration ]; do
 	sample_iterator=0
 	while [ $sample_iterator -lt $spacing ] && [ $timer -lt $duration ]; do
 
-		./batman_monitor.sh >> $filename
+		./batman_monitor.sh >> "$filename"
 		((sample_iterator += $sample))
+		echo -n "."
 		sleep $sample
 	done
 
@@ -49,7 +57,8 @@ while [ $timer -lt $duration ]; do
 	((timer += $sample_iterator))
 	((it_current += $it_increment))
 	sudo batctl it $it_current
-	./batman_monitor.sh
+#	./batman_monitor.sh
+	echo "*"
 done
 
 ./reset_defaults
@@ -67,16 +76,18 @@ while [ $timer -lt $duration ] && [ $it_current -gt 0 ]; do
         sample_iterator=0
         while [ $sample_iterator -lt $spacing ] && [ $timer -lt $duration ]; do
 
-                ./batman_monitor.sh >> $filename
+                ./batman_monitor.sh >> "$filename"
                 ((sample_iterator += $sample))
         	sleep $sample
+		echo -n "."
 	done
 
         #Increment
 	((timer += $sample_iterator))
         ((it_current += $it_decriment))
         sudo batctl it $it_current
-	./batman_monitor.sh
+#	./batman_monitor.sh
+	echo "*"
 done
 
 
