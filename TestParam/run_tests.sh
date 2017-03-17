@@ -6,7 +6,9 @@
 #       $2=duration for each test (minutes)
 #       $3=spacing between increments (minutes)
 #       $4=spacing between samp (seconds)
+echo "[MOUNTING SHARE]"
 
+sudo mount -t cifs -o guest //10.221.11.138/PiShare/ /home/pi/PiShare
 
 echo "[[[BEGINNING ALL TESTS on $(date)]]]"
 
