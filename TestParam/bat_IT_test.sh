@@ -27,8 +27,8 @@ filename="/home/pi/PiShare/$host/bat_it_test_${title}.txt"
 echo $filename
 
 #increment/decriment
-it_increment=10
-it_decriment=-10
+it_increment=100
+it_decriment=-100
 
 
 #iterator
